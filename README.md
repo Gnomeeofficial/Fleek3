@@ -21,3 +21,5 @@
 </p>
 This is a simple html file with zero configuration.
 
+<img src="https://placeholder.com/property/e4yptq/600x300.jpg" border="10">
+
